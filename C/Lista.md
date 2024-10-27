@@ -14,7 +14,18 @@ typedef struct no {
 
 // Esse nó é padrão nas três, [[Lista]] [[Pilha]] [[Fila]]
 
-Inserção de elemento
+Principais Funções :
+• Inicialização
+• Inserção
+• Percorrimento
+• Verificação se está vazia
+• Busca
+• Remoção de um Elemento
+• Liberar a Lista
+
+Inicialização:
+
+Inserção de elemento:
 -> uso do comando [[malloc]]
 ```
 no *novo
