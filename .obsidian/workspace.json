@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Lista.md",
+                "file": "C/Struct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lista"
+              "title": "Struct"
             }
           }
         ],
@@ -179,20 +179,22 @@
   },
   "active": "24d5c06a08afdadf",
   "lastOpenFiles": [
-    "C/Estrutura de Dados.canvas",
-    "C/fflush().md",
+    "C/String.md",
     "C/Lista.md",
+    "C/malloc.md",
+    "Pasted image 20241027121350.png",
+    "C/fflush().md",
+    "C/Estrutura de Dados.canvas",
+    "C/Char.md",
     "C/Lista.canvas",
+    "C/Struct.md",
     "Machine Learning.md",
     "Sem título.md",
-    "C/Struct.md",
     "Math/Principio da inclusao e exclusão.md",
     "Pasted image 20241014113051.png",
     "Pasted image 20241014113343.png",
     "Pasted image 20241014113102.png",
-    "C/String.md",
     "^fflush.md",
-    "C/Char.md",
     "C",
     "Math/Regressão Linear.md",
     "Math",
