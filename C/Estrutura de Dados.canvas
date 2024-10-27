@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"93268a0630ff3316","x":1913,"y":-335,"width":250,"height":60,"type":"text","text":"Estrutura de dados"},
+		{"id":"d0070dfb7a708507","x":2240,"y":-335,"width":250,"height":60,"type":"text","text":"Árvore"},
+		{"id":"339bc5f8b0d0c39b","x":2319,"y":-465,"width":250,"height":60,"type":"text","text":"[[Lista]]/Pilha/Fila"},
+		{"id":"2be052ced5c128bb","x":2318,"y":-148,"width":250,"height":60,"type":"text","text":"Grafos"}
+	],
+	"edges":[
+		{"id":"5827ff1face3f074","fromNode":"93268a0630ff3316","fromSide":"right","toNode":"d0070dfb7a708507","toSide":"left"},
+		{"id":"8df23e3473dff83f","fromNode":"93268a0630ff3316","fromSide":"right","toNode":"339bc5f8b0d0c39b","toSide":"left"},
+		{"id":"93ae261c177acbb2","fromNode":"93268a0630ff3316","fromSide":"right","toNode":"2be052ced5c128bb","toSide":"left"}
+	]
+}
