@@ -24,14 +24,22 @@ Principais Funções :
 • Liberar a Lista
 
 Inicialização:
+```
+Lista *Inicializa(void){
+    return NULL;
+}
+```
 
 Inserção de elemento:
 -> uso do comando [[malloc]]
 ```
-no *novo
-novo = (no*)malloc(1*sizeof(no));
-novo->info = valor;
-novo->prox = null;
+Lista *Insere (Lista *recebida, int valor){
+    Lista *novo;
+    novo= (Lista*) malloc(sizeof(Lista));
+    novo->info = valor;
+    novo->prox = recebida;
+    return novo;
+}
 ```
 
 Função que verifica se um certo valor existe na lista:
