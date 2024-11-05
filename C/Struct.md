@@ -14,6 +14,15 @@ tipo campo n;
 } ;
 ```
 
+- Com apelido: 
+```
+typedef struct nome da estrutura{  
+tipo campo 1;  
+tipo campo 2;  
+....  
+tipo campo n;  
+} apelido;
+```
 Exemplo: 
 Uma estrutura para controlar os seguintes  
 dados relacionados ao estoque de um pequeno  
