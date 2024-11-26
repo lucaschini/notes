@@ -22,36 +22,21 @@
             }
           },
           {
-            "id": "feabd82c61bea721",
+            "id": "7237afc9232fd61f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C/Árvore.canvas",
-                "viewState": {
-                  "x": -115,
-                  "y": -80,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Árvore"
-            }
-          },
-          {
-            "id": "6329ecbfb521d684",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
+                "file": "Imprimindo uma árvore.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "Imprimindo uma árvore"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Principio da inclusao e exclusão.md",
+                "file": "Imprimindo uma árvore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Principio da inclusao e exclusão"
+              "title": "Links inversos para Imprimindo uma árvore"
             }
           },
           {
@@ -192,13 +177,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6329ecbfb521d684",
+  "active": "7237afc9232fd61f",
   "lastOpenFiles": [
-    "Árvore.md",
-    "C/Árvore.canvas",
-    "C/Estrutura de Dados.canvas",
-    "C/Exercícios fila 12112024/Inverter Fila.md",
     "C/Exercícios fila 12112024/4.md",
+    "Imprimindo uma árvore.md",
+    "C/Árvore.canvas",
+    "C/Exercícios fila 12112024/Inverter Fila.md",
+    "Árvore.md",
+    "C/Estrutura de Dados.canvas",
     "C/Exercícios fila 12112024/3.md",
     "C/Exercícios fila 12112024/1.md",
     "C/Fila.md",
