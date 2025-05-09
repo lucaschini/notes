@@ -1,4 +1,4 @@
-- Elabore uma função que retorne o maior elemento de uma pilha
+	- Elabore uma função que retorne o maior elemento de uma pilha
 ```
 int maiorPilha(Pilha *P){
 
